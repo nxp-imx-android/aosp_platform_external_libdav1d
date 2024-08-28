@@ -1,0 +1,6 @@
+Package:                   libdav1d
+Outgoing License:          BSD-3-clause
+License File:              LICENSE
+Release Location:          https://github.com/nxp-imx-android/aosp_platform_external_libdav1d
+Origin:                    NXP (BSD-3-clause)
+                           The Android Open Source Project (BSD-3-clause) - https://source.android.com/
